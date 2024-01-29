@@ -1,4 +1,4 @@
-# Criando um CRUD com MySQL
+# Criando um CRUD Node com MySQL 
 
 Node é uma biblioteca que nos possibilita criar softwares em Js no lado do servidor, onde temos um código JS rodando em C++ para garantir **alta performance**.
 
